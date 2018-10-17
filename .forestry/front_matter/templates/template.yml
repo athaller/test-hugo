@@ -14,5 +14,6 @@ fields:
   name: guess_me
   label: what is 4+4
 pages:
+- content/2222.md
 - content/posts/welcome-post.md
 - content/test.md
