@@ -2,6 +2,16 @@
 label: Template
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  default: Value is default muahahhaa
+- type: number
+  default: '44'
+  description: none really.... come on
+  config:
+    min: '99998'
+    max: '99999'
+  name: guess_me
+  label: what is 4+4
 pages:
 - content/test.md
